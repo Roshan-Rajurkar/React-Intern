@@ -1,0 +1,12 @@
+what we have learn so far.
+
+1. Create react app
+2. We are provided with the Index.js and App.js.
+3. Index.js this is the file which render on the react app page.
+4. App.js : where all the components are imported
+5. Created our own functional component called it User
+6. Props : properties or parameter -> we are using it just because of avoiding creation long tag in functional components 
+
+we are stopped on 42:00 please resume.
+
+7. Now we are going to learn about class Components.
